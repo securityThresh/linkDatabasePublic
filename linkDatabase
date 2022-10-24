@@ -1,38 +1,5 @@
-(dataStorage)
-https://mega.nz/login
-
-(protonMail)
-https://account.protonmail.com/login
-
-(threema)
-https://web.threema.ch/#!/welcome
-
-(p0T)
-https://forum.mods.de/bb/board.php?BID=14
-OPFr2ORk
-
-(githubLogin)
-https://github.com/securityThresh/linkDatabasePublic/edit/main/linkDatabase
-
-(gitHubRaw)
-https://raw.githubusercontent.com/securityThresh/linkDatabasePublic/main/linkDatabase
-
-(kaleidos)
-https://kalaidos.cas.business-gaming.app/login
-https://kalaidosfh-de.weedu.ch/sts/authentication/?username=a.baumann12
-
 (privacy)
 https://brainfucksec.github.io/firefox-hardening-guide
-
-(analogFotography)
-https://forums.negativelabpro.com/t/moving-nlp-edited-files-between-computers/708
-https://photo.stackexchange.com/questions/48961/how-to-do-the-same-crop-on-a-batch-of-photos
-
-(bitBurner)
-https://docs.google.com/drawings/d/1ZvZMPV2H4V__-W0YnY6Dw4ntlg8m-wyx9c0rQ0Y69g0/edit
-https://bitburner-beta.readthedocs.io/en/latest/netscript/singularityfunctions/gymWorkout.html
-https://www.reddit.com/r/Bitburner/comments/sp6olx/karma_questions/
-https://docs.google.com/document/d/e/2PACX-1vTzTvYFStkFjQut5674ppS4mAhWggLL5PEQ_IbqSRDDCZ-l-bjv0E6Uo04Z-UfPdaQVu4c84vawwq8E/pub
 
 (sdelete)
 download an put into C:\Windows\System32
@@ -47,12 +14,6 @@ sdelete -z d: -- Zeroes the free disk space of drive d:
 SDelete uses the Department of Defense algorithm by default when it deletes files, folders or free disk space. 
 The -z parameter overwrites the free disk space with zeroes instead which is faster.
 
-(wlan)
+(net)
 1. 3713 8296 9117 6261 6604
 2. 0432 6614 8669 2232 0000
-
-(linkCollection)
-https://www.youtube.com/watch?v=hGNSrOAW1DY
-https://www.youtube.com/watch?v=5gv1eRaguss //Karg
-https://www.youtube.com/watch?time_continue=4523&v=4fVcs_iAt9Q&feature=emb_title //null
-
